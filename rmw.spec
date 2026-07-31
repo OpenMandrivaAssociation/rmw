@@ -1,9 +1,9 @@
 %global debug_package %{nil}
 
 Name:		rmw
-Version:	0.9.5
+Version:	0.10.0
 Release:	1
-Source0:	https://github.com/theimpossibleastronaut/rmw/archive/refs/tags/v0.9.5.tar.gz#/%{name}-%{version}.tar.gz
+Source0:	https://github.com/theimpossibleastronaut/rmw/archive/refs/tags/v0.10.0.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	A trashcan/recycle bin utility for the command line
 URL:		https://github.com/theimpossibleastronaut/rmw
 License:	GPLv3
